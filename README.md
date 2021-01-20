@@ -1,5 +1,5 @@
 # addressbook
-x64dbg plugin
+a x64dbg plugin that works like a dictionary for addresses. It can be used for example to record who calls the conditional breakpoint or break only when called from a new address.
 This is **pre-release** version!
 ## Usage
 ### addtoaddrbook `no`, `addr`
